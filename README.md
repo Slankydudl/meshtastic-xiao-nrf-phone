@@ -1,8 +1,10 @@
+
 <div align="center" markdown="1">
 
 <h1>Meshtastic T9 Phone</h1>
 
-<img width="271" height="360" alt="IMG_7370" src="https://github.com/user-attachments/assets/4d602b4c-de4a-4f56-9d38-0d19c6243413" />
+<img height="300" style="border-radius: 12px;" alt="PCB Render" src="https://github.com/user-attachments/assets/ba079bac-d47f-461b-8575-68581fe0ae9f" />
+<img height="300" style="border-radius: 12px;" alt="Completed Device" src="https://github.com/user-attachments/assets/6e9f4fa8-6a8b-4593-83a9-e8a10b69ffba" />
 
 </div>
 
