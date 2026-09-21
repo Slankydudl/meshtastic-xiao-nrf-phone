@@ -1,0 +1,13 @@
+# KiCad backup and local files
+*.bak
+*.kicad_prl
+*-bak
+*-cache.lib
+
+# Auto-save files
+_autosave-*
+*.erc
+*.drc
+
+# Output directories
+#/production/
