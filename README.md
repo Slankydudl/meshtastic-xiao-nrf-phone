@@ -26,3 +26,4 @@ TBC
 ### Links
 - **[Firmware](https://github.com/Slankydudl/firmware/tree/TCA8418_optimisations)** - Meshtastic firmware fork.
 - **[Standalone Keypad](https://github.com/Slankydudl/T9-Keypad-Module)** - If you just want the keypad.
+- **[onshape model](https://cad.onshape.com/documents/3c51ee3a5f6604343e4842f4/w/fb2a1c1f9218dcd275d16dea/e/b00e8f57d3ea05ff20d6055f?renderMode=0&uiState=6ab0b72fc6c97693bf5fc8d2)** - If you want to copy and edit the 3D print in onshape.
