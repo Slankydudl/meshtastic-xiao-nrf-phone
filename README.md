@@ -3,8 +3,9 @@
 
 <h1>Meshtastic T9 Phone</h1>
 
-<img height="300" style="border-radius: 12px;" alt="PCB Render" src="https://github.com/user-attachments/assets/ba079bac-d47f-461b-8575-68581fe0ae9f" />
-<img height="300" style="border-radius: 12px;" alt="Completed Device" src="https://github.com/user-attachments/assets/6e9f4fa8-6a8b-4593-83a9-e8a10b69ffba" />
+
+<img height="300" alt="PCB Render" src="https://github.com/user-attachments/assets/6b73fcd4-fd42-40c5-8259-c71bcd671142" />
+<img height="300" alt="Completed Device" src="https://github.com/user-attachments/assets/6e9f4fa8-6a8b-4593-83a9-e8a10b69ffba" />
 
 </div>
 
